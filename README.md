@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @marialves24
-- 👀 I’m interested in art tuff
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hello there, I’m @marialves24
+- I’m interested in any kind of art stuff
+- I’m currently learning german
+- I’m looking to collaborate on school, I guess
 
 <!---
 marialves24/marialves24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
