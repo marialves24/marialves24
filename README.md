@@ -1,6 +1,6 @@
 - Hello there, I’m Maria 🤭
-- Art > school
-- 15y.o
+- Doing art > school frfr
+- Self taught!:D
 - Wizards are just old people with glitter in their pockets 🧙‍♂️✨
 <!---
 marialves24/marialves24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
